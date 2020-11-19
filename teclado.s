@@ -1,5 +1,5 @@
 .section	.bss
-.comm buffer, 48	     @ reserve 48 byte buffer
+.comm buffer, 48	     
 
 .section	.data
 msg:
